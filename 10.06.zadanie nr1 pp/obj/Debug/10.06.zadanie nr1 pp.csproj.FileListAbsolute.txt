@@ -1,0 +1,8 @@
+C:\Users\jradz\OneDrive\Pulpit\zadania podstawy programowania ćwiczenia\10.06.zadanie nr1 pp\bin\Debug\10.06.zadanie nr1 pp.exe.config
+C:\Users\jradz\OneDrive\Pulpit\zadania podstawy programowania ćwiczenia\10.06.zadanie nr1 pp\bin\Debug\10.06.zadanie nr1 pp.exe
+C:\Users\jradz\OneDrive\Pulpit\zadania podstawy programowania ćwiczenia\10.06.zadanie nr1 pp\bin\Debug\10.06.zadanie nr1 pp.pdb
+C:\Users\jradz\OneDrive\Pulpit\zadania podstawy programowania ćwiczenia\10.06.zadanie nr1 pp\obj\Debug\10.06.zadanie nr1 pp.csproj.AssemblyReference.cache
+C:\Users\jradz\OneDrive\Pulpit\zadania podstawy programowania ćwiczenia\10.06.zadanie nr1 pp\obj\Debug\10.06.zadanie nr1 pp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jradz\OneDrive\Pulpit\zadania podstawy programowania ćwiczenia\10.06.zadanie nr1 pp\obj\Debug\10.06.zadanie nr1 pp.csproj.CoreCompileInputs.cache
+C:\Users\jradz\OneDrive\Pulpit\zadania podstawy programowania ćwiczenia\10.06.zadanie nr1 pp\obj\Debug\10.06.zadanie nr1 pp.exe
+C:\Users\jradz\OneDrive\Pulpit\zadania podstawy programowania ćwiczenia\10.06.zadanie nr1 pp\obj\Debug\10.06.zadanie nr1 pp.pdb

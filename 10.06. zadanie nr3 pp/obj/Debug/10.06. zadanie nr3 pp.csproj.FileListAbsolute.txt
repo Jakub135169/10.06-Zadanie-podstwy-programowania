@@ -1,0 +1,8 @@
+C:\Users\jradz\OneDrive\Pulpit\10.06 Zadanie podstwy programowania\10.06. zadanie nr3 pp\obj\Debug\10.06. zadanie nr3 pp.csproj.AssemblyReference.cache
+C:\Users\jradz\OneDrive\Pulpit\10.06 Zadanie podstwy programowania\10.06. zadanie nr3 pp\obj\Debug\10.06. zadanie nr3 pp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jradz\OneDrive\Pulpit\10.06 Zadanie podstwy programowania\10.06. zadanie nr3 pp\obj\Debug\10.06. zadanie nr3 pp.csproj.CoreCompileInputs.cache
+C:\Users\jradz\OneDrive\Pulpit\10.06 Zadanie podstwy programowania\10.06. zadanie nr3 pp\bin\Debug\_10._06.zadanie_nr3_pp.exe.config
+C:\Users\jradz\OneDrive\Pulpit\10.06 Zadanie podstwy programowania\10.06. zadanie nr3 pp\bin\Debug\_10._06.zadanie_nr3_pp.exe
+C:\Users\jradz\OneDrive\Pulpit\10.06 Zadanie podstwy programowania\10.06. zadanie nr3 pp\bin\Debug\_10._06.zadanie_nr3_pp.pdb
+C:\Users\jradz\OneDrive\Pulpit\10.06 Zadanie podstwy programowania\10.06. zadanie nr3 pp\obj\Debug\_10._06.zadanie_nr3_pp.exe
+C:\Users\jradz\OneDrive\Pulpit\10.06 Zadanie podstwy programowania\10.06. zadanie nr3 pp\obj\Debug\_10._06.zadanie_nr3_pp.pdb

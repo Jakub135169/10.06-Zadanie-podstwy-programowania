@@ -1,0 +1,8 @@
+C:\Users\jradz\OneDrive\Pulpit\10.06 Zadanie podstwy programowania\10.06.2023 zadanie nr 7 pp\bin\Debug\10.06.2023 zadanie nr 7 pp.exe.config
+C:\Users\jradz\OneDrive\Pulpit\10.06 Zadanie podstwy programowania\10.06.2023 zadanie nr 7 pp\bin\Debug\10.06.2023 zadanie nr 7 pp.exe
+C:\Users\jradz\OneDrive\Pulpit\10.06 Zadanie podstwy programowania\10.06.2023 zadanie nr 7 pp\bin\Debug\10.06.2023 zadanie nr 7 pp.pdb
+C:\Users\jradz\OneDrive\Pulpit\10.06 Zadanie podstwy programowania\10.06.2023 zadanie nr 7 pp\obj\Debug\10.06.2023 zadanie nr 7 pp.csproj.AssemblyReference.cache
+C:\Users\jradz\OneDrive\Pulpit\10.06 Zadanie podstwy programowania\10.06.2023 zadanie nr 7 pp\obj\Debug\10.06.2023 zadanie nr 7 pp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jradz\OneDrive\Pulpit\10.06 Zadanie podstwy programowania\10.06.2023 zadanie nr 7 pp\obj\Debug\10.06.2023 zadanie nr 7 pp.csproj.CoreCompileInputs.cache
+C:\Users\jradz\OneDrive\Pulpit\10.06 Zadanie podstwy programowania\10.06.2023 zadanie nr 7 pp\obj\Debug\10.06.2023 zadanie nr 7 pp.exe
+C:\Users\jradz\OneDrive\Pulpit\10.06 Zadanie podstwy programowania\10.06.2023 zadanie nr 7 pp\obj\Debug\10.06.2023 zadanie nr 7 pp.pdb
